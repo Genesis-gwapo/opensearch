@@ -1,4 +1,4 @@
-# What is the OpenSearch protocol?
+pp# What is the OpenSearch protocol?
 
 OpenSearch is a collection of simple formats for the sharing of search results.
 
